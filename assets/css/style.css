@@ -1,0 +1,25 @@
+ul li{
+	display: inline;
+	position: relative;
+	/*float: left;
+*/}
+
+nav{
+	display: inline-block;
+
+	
+}
+
+li{
+	float: left;
+	display: block;
+	padding: 8px;
+	/*background-color: #dddddd?*/
+	/*color: white;*/
+	text-align: center;
+	padding: 14px 16px;
+}
+
+li a{
+	;
+}
